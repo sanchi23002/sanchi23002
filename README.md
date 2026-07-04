@@ -28,7 +28,7 @@
 sanchita = {
     "institute"  : "IIT (ISM) Dhanbad",
     "branch"     : "Electronics & Communication Engineering",
-    "year"       : "2nd Year (2023–2027)",
+    "year"       : "2nd Year (2025–2029)",
     "location"   : "Dhanbad, Jharkhand 🇮🇳",
     "goal"       : "High-impact ECE roles where hardware meets AI/ML",
     "currently"  : ["Learning ROS2 & Robotics", "Exploring ML for Signal Processing",
